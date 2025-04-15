@@ -1,7 +1,7 @@
 import jax
 import jax.numpy as jnp
 import equinox as eqx
-import optax
+
 
 # ---------------------
 # 模型定义
